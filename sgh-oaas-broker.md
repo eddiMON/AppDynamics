@@ -7,7 +7,7 @@
 
 - [X] get /offer/{offer_name}/{offer_major}
 
-- [ ] get /operation/{operation_id}
+- [X] get /operation/{operation_id}
 
 - [X] get /instance/ids
       

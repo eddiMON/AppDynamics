@@ -1,4 +1,4 @@
-# Endpoints a serem capturados no tier do broker
+# Endpoints a serem capturados no tier sgh-oaas-broker
 
 
 ## [Broker data](https://oaas-broker.nuvem.bb.com.br/data/doc/)

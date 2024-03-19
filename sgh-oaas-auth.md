@@ -2,14 +2,18 @@
 
 ## [sgh-oaas-auth](https://oaas-auth.nuvem.bb.com.br/doc/)
 
-- [ ] GET /auth/access/ldap
+- [X] GET /auth/access/ldap
 
 - [ ] POST /auth/login
 
-- [ ] GET /auth/login/check
+- [X] GET /auth/login/check
 
-- [ ] GET /auth/prefix/alm
+- [X] GET /auth/prefix/alm
 
 - [ ] GET /auth/prefix/dados
 
-- [ ] GET /auth/userinfo
+- [X] GET /auth/userinfo
+
+- [X] GET redirect
+
+- [ ] GET v2/auth/login

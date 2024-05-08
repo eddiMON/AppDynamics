@@ -1,7 +1,7 @@
 # Endpoints a serem capturados no tier sgh-oaas-scheduler
 
 
-## [Broker data](https://oaas-scheduler.nuvem.bb.com.br/doc/)
+## [Scheduler](https://oaas-scheduler.nuvem.bb.com.br/doc/)
 
 - [X] GET /scheduler/
 

@@ -11,7 +11,7 @@
 
 - [X] GET /scheduler/calendar/dates
       
-- [ ] GET /scheduler/count
+- [X] GET /scheduler/count
 
 - [X] GET /scheduler/executions/{job_id}
 
@@ -19,6 +19,6 @@
 
 - [X] GET /scheduler/{job_id}
 
-- [ ] DELETE /scheduler/{job_id}
+- [X] DELETE /scheduler/{job_id}
 
 - [ ] PUT /scheduler/{job_id}

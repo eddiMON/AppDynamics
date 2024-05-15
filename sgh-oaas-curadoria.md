@@ -6,7 +6,7 @@
 - [ ] GET /survey/
 - [X] GET /tests/{offer_name}/{offer_major}
 - [ ] POST /tests/{offer_id}
-- [ ] POST /survey/
+- [X] POST /survey/
 - [X] GET /tests/validation/{offer_name}/{offer_major}
 - [X] GET /tests/validation/bypass
 - [X] DELETE /tests/{offer_name}/{offer_major}

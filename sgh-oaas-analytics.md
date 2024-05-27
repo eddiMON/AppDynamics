@@ -9,8 +9,6 @@
 
 - [X] POST /grafana/query
 
-- [ ] POST /grafana/search
+- [X] POST /grafana/search
       
-- [X] 
 
-- [X] 
